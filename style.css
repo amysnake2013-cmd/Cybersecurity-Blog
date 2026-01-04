@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightskyblue;
+    text-align: center;
+    color: navy;
+}
+header {
+    background-color: deepskyblue;
+    padding: 10px;
+}
+nav{
+    
+    text-align: right;
+}
+nav a {
+    margin: 1px;
+    padding: 10px;
+    text-decoration: none;
+    color: navy;
+    border: 2px solid navy;
+}
+nav a:hover {
+    transition: 0.3s;
+    color: lightblue;
+    font-size: 17px;
+}
+main {
+    padding: 20px 100px;
+}
+footer {
+background-color: deepskyblue;
+    padding: 10px;
+}
+ol li{
+    text-align: left;
+    line-height: 1.5em;
+}
+h3{
+    font-size: 25px;
+}
+.bighead{
+    font-size: 40px;
+}
+main img{
+    border-radius: 20px;
+}
